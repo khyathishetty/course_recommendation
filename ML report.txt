@@ -1,0 +1,100 @@
+Course Recommendation System for Improved Student Employability
+
+ABSTRACT:
+
+This report details the development of a machine learning (ML) project designed to recommend courses to students based on their existing skillset and the skills sought by potential employers. The growing emphasis on skills-based hiring necessitates better alignment between academic programs and industry demands. This project addresses this gap by leveraging machine learning to bridge the student-to-workforce transition. 
+
+The report outlines the methodology employed, including techniques for student skill identification and job posting analysis to extract critical skills. The core of the system involves an ML model that recommends courses based on the identified skill gaps between a student's profile and desired career paths.  
+
+The project offers significant benefits for both students and employers. Students gain valuable guidance in selecting courses that enhance their employability, while employers can access a more qualified talent pool with the necessary skills for success. The report concludes by discussing the project's potential impact on educational institutions and future directions for development.
+
+INTRODUCTION:
+
+This project utilizes machine learning to bridge the gap between student skills and industry demands. By analyzing student skillsets and job posting requirements, an ML model recommends courses that address skill gaps and enhance student employability. This system benefits both students, who can make informed course choices, and employers, who gain access to a more qualified talent pool. 
+
+The objectives of this machine learning project can be summarized as follows:
+1. Enhance Student Employability: By recommending courses that align with industry needs, the project aims to equip students with the skills most sought after by employers, making them more competitive in the job market.
+2. Bridge Skills Gap: Analyze the skill sets of students and the skill requirements of job postings to identify areas where students lack necessary skills. The recommended courses will target these gaps, ensuring a smoother transition from academia to the workforce.
+3. Improve Student Course Selection: The project empowers students to make informed decisions about their coursework by providing data-driven recommendations that enhance their career prospects.
+
+This project holds significant importance within the realm of machine learning due to its focus on bridging the often-present gap between academic programs and industry demands. The ever-evolving job market necessitates a dynamic approach to education, and machine learning offers a powerful tool in this regard. By analyzing vast amounts of data on student skills and employer needs, the project utilizes machine learning to create personalized course recommendations. This not only empowers students to make informed choices about their education but also fosters a more qualified workforce, ultimately benefiting both students and employers.  Furthermore, the project contributes valuable data and insights into the field of educational machine learning, paving the way for further development of intelligent systems that can personalize and optimize learning experiences. 
+
+PROBLEM STATEMENT:  
+
+There exists a critical disconnect between the skills students acquire during their education and the skills demanded by employers in today's job market. This skills gap hinders student employability and creates challenges for companies seeking qualified candidates.
+
+DATASET DESCRIPTION:
+
+
+a. Description of the dataset used in the project
+* Student Name: This attribute stores the name of the student (might be anonymized for privacy).
+* CGPA: This attribute represents the student's Cumulative Grade Point Average, providing a general indicator of 	academic performance.
+* Student Skills: This attribute lists the skills possessed by the student. This could be represented in various 		  ways, such as a list of keywords, categories, or even a skills taxonomy. 
+* Company Name: This attribute identifies the companies included in the data. 
+* Skills Required by the Company: This attribute specifies the skills that companies are seeking in potential 					  employees for various positions. Similar to student skills, this could be 					  represented as a list of keywords, categories, or a skills taxonomy.
+
+b. Source of the dataset
+
+* Student Details: Information regarding student names, CGPA, and skillsets was obtained directly from the 			   students themselves. This was achieved through asking the students directly for their 			   information.
+
+* Company Details: Data on company names were obtained from the official college website and the skillsets were 		   obtained from internet from the official website of each company. 
+
+c. Features included in the dataset
+
+Student:
+* Student Name: This attribute identifies the student. 
+* CGPA: This numerical value represents the student's Cumulative Grade Point Average, offering a general indicator of academic performance.
+* Student Skills: This attribute captures the skills possessed by the student. Each skill is listed as a separate keyword (Python, Java, Web Dev, SQL, Excel, Cybersecurity, PowerBI).
+Company:
+* Company Name: This attribute identifies the company that posted the job opening.
+* Skillsset for company: This attribute specifies the skills companies are seeking in potential employees. Similar to student skills, each skill is listed as a separate keyword (Python, Java, Web Dev, SQL, Excel, Cybersecurity, PowerBI).
+
+d. Size of the dataset
+
+The current dataset consists of information for 72 students of AI&DS branch and same number of company details.
+
+e. Any preprocessing steps applied to the dataset
+
+1.Skill Assignment and Comparison:
+Random Skill Assignment
+Skill Numerical Encoding
+Skillset Comparison.
+2.Data Transformation:
+Binary Outcome Creation
+CSV File Generation
+
+METHODOLOGY:
+
+a.Description of the preprocessing. 
+
+1. Skill Assignment and Comparison:
+Random Skill Assignment: The random() function was used to randomly assign skills (e.g., Python, Java) to each student in the dataset.
+Skill Numerical Encoding: Each skill was assigned a unique numerical value (e.g., Python: 1, Java: 2).
+Skillset Comparison: Student and company skill sets were compared by iterating through each skill and checking if the student possessed the required skill (as indicated by the corresponding numerical value present in the company's skill set).
+
+ 2. Data Transformation:
+Binary Outcome Creation: The comparison results ("Yes" for being fit for the company, "No" for not) were   converted into binary format (1 for being fit for the company, 0 for not).
+CSV File Generation: The processed data, including student skills, company skills, and the binary comparison outcome for each skill pair, was saved as a CSV file using the pandas library.
+
+b.Description of the machine learning techniques/algorithms/models used.
+
+K-Means Clustering: We applied the K-Means clustering algorithm to group students into three clusters based on their CGPA (Cumulative Grade Point Average). This technique identifies groups (clusters) with similar CGPA values, allowing for targeted analysis.
+
+Scatter Plot Visualization: A scatter plot was created to visualize the relationship between student skills and their respective CGPA clusters. This visualization provided insights into potential skill variations across different academic performance levels.
+
+Rule-Based Matching: We implemented a rule-based system to compare student skills with company skill requirements. Individual if-else statements determined whether a student possessed each required skill for a specific company. This approach offered a clear and interpretable way to assess student-company skill alignment.
+
+Eligible Company List Generation: Based on the skill matching results, a new dataset was created. This dataset contained student names and all the companies they were eligible for, considering their skills.
+
+Decision Tree Model: A decision tree algorithm was employed to analyze the generated dataset containing student-company eligibility information. Decision trees excel at handling discrete data (e.g., skills possessed/not possessed) and provide a clear interpretable model for understanding the reasoning behind recommendations.
+
+Confusion Matrix Evaluation: To assess the performance of the decision tree model, a confusion matrix was generated. This matrix visualizes the number of correct and incorrect predictions made by the model, providing valuable insights into its accuracy and potential for improvement.
+
+Leveraging Decision Tree Results: By analyzing the decision tree's structure and predictions, we built a course recommendation system. This system identifies skills that could enhance students' eligibility for their desired companies based on the learned decision rules. These recommendations aim to guide students in selecting courses that can potentially improve their skillsets and increase their chances of being placed in their preferred companies.
+
+c.Justification for the chosen techniques/algorithms/models
+
+K-Means clustering is a simple and efficient unsupervised learning algorithm, making it ideal for exploratory data analysis when initial group structures are unknown. In this case, we aimed to identify potential subgroups within the student population based on their CGPA.
+Visualization with scatter plots provides a clear visual representation of skill distribution across CGPA clusters. This helps in understanding potential correlations or trends between academic performance and skill sets.
+A rule-based approach with conditional statements offers a straightforward way to compare student skills and company requirements. It's suitable for situations where the decision-making process is well-defined and relatively simple.
+Creating a new dataset based on the matching results streamlines the data for subsequent analysis and model training (decision tree in this case).

@@ -1,0 +1,721 @@
+,Name,Skills,CGPA,Soft Skills,Company,Target,SoftSkill
+0,Aastha Londhe,Java,9.75,,Target,Yes,Time management
+1,Aastha Londhe,Java,9.75,,RedBus,Yes,Problem-solving
+2,Aastha Londhe,Java,9.75,,Incture,Yes,Interpersonal skills
+3,Aastha Londhe,Java,9.75,,Sony India,Yes,Teamwork
+4,Aastha Londhe,Java,9.75,,Tata Consulting Engineers,Yes,Teamwork
+5,Aastha Londhe,Java,9.75,,Juniper Networks,No,Creativity
+6,Aastha Londhe,Java,9.75,,Deltax,No,Creativity
+7,Aastha Londhe,Java,9.75,,Pwc Cloud & Digital,No,Teamwork
+8,Aastha Londhe,Java,9.75,,Mercedes benz,No,Teamwork
+9,Aastha Londhe,Java,9.75,,JSW Group,No,Problem-solving
+10,Abhijna N,SQL,9.35,,Target,Yes,Communication
+11,Abhijna N,SQL,9.35,,RedBus,Yes,Teamwork
+12,Abhijna N,SQL,9.35,,Incture,Yes,Time management
+13,Abhijna N,SQL,9.35,,Sony India,Yes,Time management
+14,Abhijna N,SQL,9.35,,Tata Consulting Engineers,Yes,Interpersonal skills
+15,Abhijna N,SQL,9.35,,Juniper Networks,No,Time management
+16,Abhijna N,SQL,9.35,,Deltax,No,Creativity
+17,Abhijna N,SQL,9.35,,Pwc Cloud & Digital,No,Creativity
+18,Abhijna N,SQL,9.35,,Mercedes benz,No,Problem-solving
+19,Abhijna N,SQL,9.35,,JSW Group,No,Interpersonal skills
+20,Adithya Maradithaya,Power BI,6.9,,Juniper Networks,Yes,Interpersonal skills
+21,Adithya Maradithaya,Power BI,6.9,,Deltax,Yes,Communication
+22,Adithya Maradithaya,Power BI,6.9,,Pwc Cloud & Digital,Yes,Creativity
+23,Adithya Maradithaya,Power BI,6.9,,Target,No,Interpersonal skills
+24,Adithya Maradithaya,Power BI,6.9,,RedBus,No,Problem-solving
+25,Adithya Maradithaya,Power BI,6.9,,Incture,No,Communication
+26,Adithya Maradithaya,Power BI,6.9,,Sony India,No,Communication
+27,Adithya Maradithaya,Power BI,6.9,,Tata Consulting Engineers,No,Problem-solving
+28,Adithya Maradithaya,Power BI,6.9,,Mercedes benz,No,Teamwork
+29,Adithya Maradithaya,Power BI,6.9,,JSW Group,No,Creativity
+30,Aditya Patil T,Web Dev,7.33,,Relanto Global,Yes,Creativity
+31,Aditya Patil T,Web Dev,7.33,,Target,No,Interpersonal skills
+32,Aditya Patil T,Web Dev,7.33,,RedBus,No,Teamwork
+33,Aditya Patil T,Web Dev,7.33,,Incture,No,Communication
+34,Aditya Patil T,Web Dev,7.33,,Sony India,No,Interpersonal skills
+35,Aditya Patil T,Web Dev,7.33,,Tata Consulting Engineers,No,Communication
+36,Aditya Patil T,Web Dev,7.33,,Juniper Networks,No,Creativity
+37,Aditya Patil T,Web Dev,7.33,,Deltax,No,Teamwork
+38,Aditya Patil T,Web Dev,7.33,,Pwc Cloud & Digital,No,Teamwork
+39,Aditya Patil T,Web Dev,7.33,,Mercedes benz,No,Problem-solving
+40,Ambika Jayashanthi,Power BI,8.6,,Mercedes benz,Yes,Interpersonal skills
+41,Ambika Jayashanthi,Power BI,8.6,,JSW Group,Yes,Teamwork
+42,Ambika Jayashanthi,Power BI,8.6,,Target,No,Teamwork
+43,Ambika Jayashanthi,Power BI,8.6,,RedBus,No,Problem-solving
+44,Ambika Jayashanthi,Power BI,8.6,,Incture,No,Teamwork
+45,Ambika Jayashanthi,Power BI,8.6,,Sony India,No,Problem-solving
+46,Ambika Jayashanthi,Power BI,8.6,,Tata Consulting Engineers,No,Problem-solving
+47,Ambika Jayashanthi,Power BI,8.6,,Juniper Networks,No,Interpersonal skills
+48,Ambika Jayashanthi,Power BI,8.6,,Deltax,No,Creativity
+49,Ambika Jayashanthi,Power BI,8.6,,Pwc Cloud & Digital,No,Creativity
+50,Amrith R Naik,Cybersecurity,7.83,,IBM Software Labs,Yes,Problem-solving
+51,Amrith R Naik,Cybersecurity,7.83,,Accolite Digital,Yes,Interpersonal skills
+52,Amrith R Naik,Cybersecurity,7.83,,Mirafra Technologies,Yes,Creativity
+53,Amrith R Naik,Cybersecurity,7.83,,Ace Designers Limited,Yes,Teamwork
+54,Amrith R Naik,Cybersecurity,7.83,,Target,No,Teamwork
+55,Amrith R Naik,Cybersecurity,7.83,,RedBus,No,Interpersonal skills
+56,Amrith R Naik,Cybersecurity,7.83,,Incture,No,Problem-solving
+57,Amrith R Naik,Cybersecurity,7.83,,Sony India,No,Communication
+58,Amrith R Naik,Cybersecurity,7.83,,Tata Consulting Engineers,No,Teamwork
+59,Amrith R Naik,Cybersecurity,7.83,,Juniper Networks,No,Creativity
+60,Anagha Tantry,Cybersecurity,8.92,,IBM India,Yes,Communication
+61,Anagha Tantry,Cybersecurity,8.92,,Oracle,Yes,Communication
+62,Anagha Tantry,Cybersecurity,8.92,,Navigo Solutions,Yes,Communication
+63,Anagha Tantry,Cybersecurity,8.92,,Aloha Technology,Yes,Teamwork
+64,Anagha Tantry,Cybersecurity,8.92,,Target,No,Communication
+65,Anagha Tantry,Cybersecurity,8.92,,RedBus,No,Teamwork
+66,Anagha Tantry,Cybersecurity,8.92,,Incture,No,Time management
+67,Anagha Tantry,Cybersecurity,8.92,,Sony India,No,Time management
+68,Anagha Tantry,Cybersecurity,8.92,,Tata Consulting Engineers,No,Communication
+69,Anagha Tantry,Cybersecurity,8.92,,Juniper Networks,No,Interpersonal skills
+70,Ananya S Shetty,Cybersecurity,5.6,,IBM India,Yes,Teamwork
+71,Ananya S Shetty,Cybersecurity,5.6,,Oracle,Yes,Creativity
+72,Ananya S Shetty,Cybersecurity,5.6,,Navigo Solutions,Yes,Teamwork
+73,Ananya S Shetty,Cybersecurity,5.6,,Aloha Technology,Yes,Teamwork
+74,Ananya S Shetty,Cybersecurity,5.6,,Target,No,Interpersonal skills
+75,Ananya S Shetty,Cybersecurity,5.6,,RedBus,No,Problem-solving
+76,Ananya S Shetty,Cybersecurity,5.6,,Incture,No,Teamwork
+77,Ananya S Shetty,Cybersecurity,5.6,,Sony India,No,Interpersonal skills
+78,Ananya S Shetty,Cybersecurity,5.6,,Tata Consulting Engineers,No,Problem-solving
+79,Ananya S Shetty,Cybersecurity,5.6,,Juniper Networks,No,Problem-solving
+80,Ankith Hebbar,Power BI,9.57,,Twilio,Yes,Interpersonal skills
+81,Ankith Hebbar,Power BI,9.57,,Nutanix,Yes,Problem-solving
+82,Ankith Hebbar,Power BI,9.57,,Accenture,Yes,Interpersonal skills
+83,Ankith Hebbar,Power BI,9.57,,Daimler Truck,Yes,Problem-solving
+84,Ankith Hebbar,Power BI,9.57,,Target,No,Creativity
+85,Ankith Hebbar,Power BI,9.57,,RedBus,No,Problem-solving
+86,Ankith Hebbar,Power BI,9.57,,Incture,No,Interpersonal skills
+87,Ankith Hebbar,Power BI,9.57,,Sony India,No,Time management
+88,Ankith Hebbar,Power BI,9.57,,Tata Consulting Engineers,No,Creativity
+89,Ankith Hebbar,Power BI,9.57,,Juniper Networks,No,Creativity
+90,Ankith Kumar,Excel,7,,IBM India,Yes,Problem-solving
+91,Ankith Kumar,Excel,7,,Oracle,Yes,Interpersonal skills
+92,Ankith Kumar,Excel,7,,Navigo Solutions,Yes,Problem-solving
+93,Ankith Kumar,Excel,7,,Aloha Technology,Yes,Interpersonal skills
+94,Ankith Kumar,Excel,7,,Target,No,Time management
+95,Ankith Kumar,Excel,7,,RedBus,No,Communication
+96,Ankith Kumar,Excel,7,,Incture,No,Communication
+97,Ankith Kumar,Excel,7,,Sony India,No,Problem-solving
+98,Ankith Kumar,Excel,7,,Tata Consulting Engineers,No,Interpersonal skills
+99,Ankith Kumar,Excel,7,,Juniper Networks,No,Communication
+100,Ankitha,Web Dev,9.4,,Juniper Networks,Yes,Communication
+101,Ankitha,Web Dev,9.4,,Deltax,Yes,Interpersonal skills
+102,Ankitha,Web Dev,9.4,,Pwc Cloud & Digital,Yes,Time management
+103,Ankitha,Web Dev,9.4,,Oracle,No,Communication
+104,Ankitha,Web Dev,9.4,,Navigo Solutions,No,Teamwork
+105,Ankitha,Web Dev,9.4,,Aloha Technology,No,Problem-solving
+106,Ankitha,Web Dev,9.4,,Twilio,No,Time management
+107,Ankitha,Web Dev,9.4,,Nutanix,No,Problem-solving
+108,Ankitha,Web Dev,9.4,,Accenture,No,Problem-solving
+109,Ankitha,Web Dev,9.4,,Daimler Truck,No,Problem-solving
+110,Anusha Nayak,Cybersecurity,7.5,,Relanto Global,Yes,Communication
+111,Anusha Nayak,Cybersecurity,7.5,,Target,No,Communication
+112,Anusha Nayak,Cybersecurity,7.5,,RedBus,No,Interpersonal skills
+113,Anusha Nayak,Cybersecurity,7.5,,Incture,No,Problem-solving
+114,Anusha Nayak,Cybersecurity,7.5,,Sony India,No,Time management
+115,Anusha Nayak,Cybersecurity,7.5,,Tata Consulting Engineers,No,Time management
+116,Anusha Nayak,Cybersecurity,7.5,,Juniper Networks,No,Interpersonal skills
+117,Anusha Nayak,Cybersecurity,7.5,,Deltax,No,Interpersonal skills
+118,Anusha Nayak,Cybersecurity,7.5,,Pwc Cloud & Digital,No,Creativity
+119,Anusha Nayak,Cybersecurity,7.5,,Mercedes benz,No,Creativity
+120,Ashith C,Java,9.03,,Juniper Networks,Yes,Problem-solving
+121,Ashith C,Java,9.03,,Deltax,Yes,Creativity
+122,Ashith C,Java,9.03,,Pwc Cloud & Digital,Yes,Problem-solving
+123,Ashith C,Java,9.03,,Daimler Truck,No,Time management
+124,Ashith C,Java,9.03,,Relanto Global,No,Time management
+125,Ashith C,Java,9.03,,Target,No,Creativity
+126,Ashith C,Java,9.03,,RedBus,No,Problem-solving
+127,Ashith C,Java,9.03,,Incture,No,Problem-solving
+128,Ashith C,Java,9.03,,Sony India,No,Interpersonal skills
+129,Ashith C,Java,9.03,,Tata Consulting Engineers,No,Teamwork
+130,Ashray K,Python,7,,Mercedes benz,Yes,Problem-solving
+131,Ashray K,Python,7,,JSW Group,Yes,Communication
+132,Ashray K,Python,7,,Pwc Cloud & Digital,No,Communication
+133,Ashray K,Python,7,,Daimler Truck,No,Communication
+134,Ashray K,Python,7,,Relanto Global,No,Creativity
+135,Ashray K,Python,7,,Target,No,Time management
+136,Ashray K,Python,7,,RedBus,No,Teamwork
+137,Ashray K,Python,7,,Incture,No,Interpersonal skills
+138,Ashray K,Python,7,,Sony India,No,Problem-solving
+139,Ashray K,Python,7,,Tata Consulting Engineers,No,Communication
+140,Ayush Chaudary,Python,7.5,,IBM India,Yes,Communication
+141,Ayush Chaudary,Python,7.5,,Oracle,Yes,Time management
+142,Ayush Chaudary,Python,7.5,,Navigo Solutions,Yes,Interpersonal skills
+143,Ayush Chaudary,Python,7.5,,Aloha Technology,Yes,Creativity
+144,Ayush Chaudary,Python,7.5,,Relanto Global,No,Interpersonal skills
+145,Ayush Chaudary,Python,7.5,,Target,No,Interpersonal skills
+146,Ayush Chaudary,Python,7.5,,RedBus,No,Problem-solving
+147,Ayush Chaudary,Python,7.5,,Incture,No,Creativity
+148,Ayush Chaudary,Python,7.5,,Sony India,No,Interpersonal skills
+149,Ayush Chaudary,Python,7.5,,Tata Consulting Engineers,No,Communication
+150,B J Hrutik,Web Dev,7,,Mercedes benz,Yes,Creativity
+151,B J Hrutik,Web Dev,7,,JSW Group,Yes,Problem-solving
+152,B J Hrutik,Web Dev,7,,Navigo Solutions,No,Communication
+153,B J Hrutik,Web Dev,7,,Aloha Technology,No,Creativity
+154,B J Hrutik,Web Dev,7,,Relanto Global,No,Creativity
+155,B J Hrutik,Web Dev,7,,Target,No,Creativity
+156,B J Hrutik,Web Dev,7,,RedBus,No,Problem-solving
+157,B J Hrutik,Web Dev,7,,Incture,No,Time management
+158,B J Hrutik,Web Dev,7,,Sony India,No,Time management
+159,B J Hrutik,Web Dev,7,,Tata Consulting Engineers,No,Interpersonal skills
+160,Banuprasad B,SQL,5,,Juniper Networks,Yes,Time management
+161,Banuprasad B,SQL,5,,Deltax,Yes,Creativity
+162,Banuprasad B,SQL,5,,Pwc Cloud & Digital,Yes,Problem-solving
+163,Banuprasad B,SQL,5,,Aloha Technology,No,Problem-solving
+164,Banuprasad B,SQL,5,,Relanto Global,No,Problem-solving
+165,Banuprasad B,SQL,5,,Target,No,Interpersonal skills
+166,Banuprasad B,SQL,5,,RedBus,No,Interpersonal skills
+167,Banuprasad B,SQL,5,,Incture,No,Communication
+168,Banuprasad B,SQL,5,,Sony India,No,Communication
+169,Banuprasad B,SQL,5,,Tata Consulting Engineers,No,Interpersonal skills
+170,Esha kunder,Cybersecurity,9.85,,Mercedes benz,Yes,Communication
+171,Esha kunder,Cybersecurity,9.85,,JSW Group,Yes,Interpersonal skills
+172,Esha kunder,Cybersecurity,9.85,,Relanto Global,No,Problem-solving
+173,Esha kunder,Cybersecurity,9.85,,Target,No,Creativity
+174,Esha kunder,Cybersecurity,9.85,,RedBus,No,Interpersonal skills
+175,Esha kunder,Cybersecurity,9.85,,Mirafra Technologies,No,Creativity
+176,Esha kunder,Cybersecurity,9.85,,Ace Designers Limited,No,Creativity
+177,Esha kunder,Cybersecurity,9.85,,Incture,No,Creativity
+178,Esha kunder,Cybersecurity,9.85,,Sony India,No,Teamwork
+179,Esha kunder,Cybersecurity,9.85,,Tata Consulting Engineers,No,Problem-solving
+180,Fathima Zuha,Web Dev,7.22,,IBM Software Labs,Yes,Communication
+181,Fathima Zuha,Web Dev,7.22,,Accolite Digital,Yes,Interpersonal skills
+182,Fathima Zuha,Web Dev,7.22,,Mirafra Technologies,Yes,Communication
+183,Fathima Zuha,Web Dev,7.22,,Ace Designers Limited,Yes,Time management
+184,Fathima Zuha,Web Dev,7.22,,Incture,No,Problem-solving
+185,Fathima Zuha,Web Dev,7.22,,Sony India,No,Communication
+186,Fathima Zuha,Web Dev,7.22,,Tata Consulting Engineers,No,Problem-solving
+187,Fathima Zuha,Web Dev,7.22,,Mercedes benz,No,Creativity
+188,Fathima Zuha,Web Dev,7.22,,JSW Group,No,Teamwork
+189,Fathima Zuha,Web Dev,7.22,,Relanto Global,No,Communication
+190,Grace tessa johnson,SQL,8.7,,Mercedes benz,Yes,Teamwork
+191,Grace tessa johnson,SQL,8.7,,JSW Group,Yes,Creativity
+192,Grace tessa johnson,SQL,8.7,,Tata Consulting Engineers,No,Interpersonal skills
+193,Grace tessa johnson,SQL,8.7,,Relanto Global,No,Creativity
+194,Grace tessa johnson,SQL,8.7,,Sony India,No,Teamwork
+195,Grace tessa johnson,SQL,8.7,,Tata Consulting Engineers,No,Time management
+196,Grace tessa johnson,SQL,8.7,,IBM Software Labs,No,Interpersonal skills
+197,Grace tessa johnson,SQL,8.7,,Accolite Digital,No,Teamwork
+198,Grace tessa johnson,SQL,8.7,,Mirafra Technologies,No,Time management
+199,Grace tessa johnson,SQL,8.7,,Ace Designers Limited,No,Problem-solving
+200,Harshal Rodrigues,Python,6.9,,IBM Software Labs,Yes,Teamwork
+201,Harshal Rodrigues,Python,6.9,,Accolite Digital,Yes,Teamwork
+202,Harshal Rodrigues,Python,6.9,,Mirafra Technologies,Yes,Creativity
+203,Harshal Rodrigues,Python,6.9,,Ace Designers Limited,Yes,Interpersonal skills
+204,Harshal Rodrigues,Python,6.9,,Mercedes benz,No,Creativity
+205,Harshal Rodrigues,Python,6.9,,JSW Group,No,Problem-solving
+206,Harshal Rodrigues,Python,6.9,,Tata Consulting Engineers,No,Interpersonal skills
+207,Harshal Rodrigues,Python,6.9,,Relanto Global,No,Creativity
+208,Harshal Rodrigues,Python,6.9,,Sony India,No,Teamwork
+209,Harshal Rodrigues,Python,6.9,,Tata Consulting Engineers,No,Communication
+210,Isha Naik,Python,7.77,,IBM Software Labs,Yes,Communication
+211,Isha Naik,Python,7.77,,Accolite Digital,Yes,Interpersonal skills
+212,Isha Naik,Python,7.77,,Mirafra Technologies,Yes,Interpersonal skills
+213,Isha Naik,Python,7.77,,Ace Designers Limited,Yes,Problem-solving
+214,Isha Naik,Python,7.77,,Mercedes benz,No,Problem-solving
+215,Isha Naik,Python,7.77,,JSW Group,No,Communication
+216,Isha Naik,Python,7.77,,Tata Consulting Engineers,No,Problem-solving
+217,Isha Naik,Python,7.77,,Relanto Global,No,Creativity
+218,Isha Naik,Python,7.77,,Sony India,No,Teamwork
+219,Isha Naik,Python,7.77,,Tata Consulting Engineers,No,Interpersonal skills
+220,Jewell Joy Fernandez,SQL,7,,Relanto Global,Yes,Communication
+221,Jewell Joy Fernandez,SQL,7,,IBM Software Labs,No,Time management
+222,Jewell Joy Fernandez,SQL,7,,Accolite Digital,No,Teamwork
+223,Jewell Joy Fernandez,SQL,7,,Mirafra Technologies,No,Problem-solving
+224,Jewell Joy Fernandez,SQL,7,,Ace Designers Limited,No,Interpersonal skills
+225,Jewell Joy Fernandez,SQL,7,,Mercedes benz,No,Problem-solving
+226,Jewell Joy Fernandez,SQL,7,,JSW Group,No,Creativity
+227,Jewell Joy Fernandez,SQL,7,,Tata Consulting Engineers,No,Teamwork
+228,Jewell Joy Fernandez,SQL,7,,Sony India,No,Interpersonal skills
+229,Jewell Joy Fernandez,SQL,7,,Target,No,Time management
+230,Joanna Leticia Pinto,Power BI,8.08,,Juniper Networks,Yes,Problem-solving
+231,Joanna Leticia Pinto,Power BI,8.08,,Deltax,Yes,Problem-solving
+232,Joanna Leticia Pinto,Power BI,8.08,,Pwc Cloud & Digital,Yes,Interpersonal skills
+233,Joanna Leticia Pinto,Power BI,8.08,,Target,No,Interpersonal skills
+234,Joanna Leticia Pinto,Power BI,8.08,,RedBus,No,Time management
+235,Joanna Leticia Pinto,Power BI,8.08,,Incture,No,Problem-solving
+236,Joanna Leticia Pinto,Power BI,8.08,,Sony India,No,Problem-solving
+237,Joanna Leticia Pinto,Power BI,8.08,,Tata Consulting Engineers,No,Problem-solving
+238,Joanna Leticia Pinto,Power BI,8.08,,Accolite Digital,No,Problem-solving
+239,Joanna Leticia Pinto,Power BI,8.08,,Mirafra Technologies,No,Creativity
+240,Keesha Josline Cutinha,SQL,8.2,,IBM India,Yes,Time management
+241,Keesha Josline Cutinha,SQL,8.2,,Oracle,Yes,Creativity
+242,Keesha Josline Cutinha,SQL,8.2,,Navigo Solutions,Yes,Teamwork
+243,Keesha Josline Cutinha,SQL,8.2,,Aloha Technology,Yes,Problem-solving
+244,Keesha Josline Cutinha,SQL,8.2,,Twilio,No,Time management
+245,Keesha Josline Cutinha,SQL,8.2,,Nutanix,No,Communication
+246,Keesha Josline Cutinha,SQL,8.2,,Accenture,No,Interpersonal skills
+247,Keesha Josline Cutinha,SQL,8.2,,Daimler Truck,No,Interpersonal skills
+248,Keesha Josline Cutinha,SQL,8.2,,JSW Group,No,Problem-solving
+249,Keesha Josline Cutinha,SQL,8.2,,Relanto Global,No,Teamwork
+250,Krishna N Acharya,Python,8.6,,Relanto Global,Yes,Interpersonal skills
+251,Krishna N Acharya,Python,8.6,,Juniper Networks,No,Creativity
+252,Krishna N Acharya,Python,8.6,,Deltax,No,Teamwork
+253,Krishna N Acharya,Python,8.6,,Pwc Cloud & Digital,No,Problem-solving
+254,Krishna N Acharya,Python,8.6,,Mercedes benz,No,Interpersonal skills
+255,Krishna N Acharya,Python,8.6,,JSW Group,No,Creativity
+256,Krishna N Acharya,Python,8.6,,Target,No,Communication
+257,Krishna N Acharya,Python,8.6,,RedBus,No,Creativity
+258,Krishna N Acharya,Python,8.6,,Incture,No,Communication
+259,Krishna N Acharya,Python,8.6,,Sony India,No,Teamwork
+260,M Raksha Kini,Java,8.4,,Juniper Networks,Yes,Teamwork
+261,M Raksha Kini,Java,8.4,,Deltax,Yes,Time management
+262,M Raksha Kini,Java,8.4,,Pwc Cloud & Digital,Yes,Communication
+263,M Raksha Kini,Java,8.4,,Mercedes benz,No,Problem-solving
+264,M Raksha Kini,Java,8.4,,JSW Group,No,Creativity
+265,M Raksha Kini,Java,8.4,,Relanto Global,No,Communication
+266,M Raksha Kini,Java,8.4,,IBM Software Labs,No,Teamwork
+267,M Raksha Kini,Java,8.4,,Accolite Digital,No,Creativity
+268,M Raksha Kini,Java,8.4,,Mirafra Technologies,No,Communication
+269,M Raksha Kini,Java,8.4,,Ace Designers Limited,No,Interpersonal skills
+270,Mahammad Shahil,Excel,5.9,,Twilio,Yes,Creativity
+271,Mahammad Shahil,Excel,5.9,,Nutanix,Yes,Communication
+272,Mahammad Shahil,Excel,5.9,,Accenture,Yes,Creativity
+273,Mahammad Shahil,Excel,5.9,,Daimler Truck,Yes,Creativity
+274,Mahammad Shahil,Excel,5.9,,Mercedes benz,No,Problem-solving
+275,Mahammad Shahil,Excel,5.9,,JSW Group,No,Problem-solving
+276,Mahammad Shahil,Excel,5.9,,Relanto Global,No,Problem-solving
+277,Mahammad Shahil,Excel,5.9,,IBM Software Labs,No,Teamwork
+278,Mahammad Shahil,Excel,5.9,,Accolite Digital,No,Problem-solving
+279,Mahammad Shahil,Excel,5.9,,Mirafra Technologies,No,Communication
+280,Manish Kumar,Excel,7.54,,IBM Software Labs,Yes,Communication
+281,Manish Kumar,Excel,7.54,,Accolite Digital,Yes,Creativity
+282,Manish Kumar,Excel,7.54,,Mirafra Technologies,Yes,Interpersonal skills
+283,Manish Kumar,Excel,7.54,,Ace Designers Limited,Yes,Problem-solving
+284,Manish Kumar,Excel,7.54,,Mercedes benz,No,Teamwork
+285,Manish Kumar,Excel,7.54,,JSW Group,No,Interpersonal skills
+286,Manish Kumar,Excel,7.54,,Relanto Global,No,Creativity
+287,Manish Kumar,Excel,7.54,,Oracle,No,Time management
+288,Manish Kumar,Excel,7.54,,Navigo Solutions,No,Communication
+289,Manish Kumar,Excel,7.54,,Aloha Technology,No,Time management
+290,Mansi A Prabhu,Java,6.9,,Twilio,Yes,Creativity
+291,Mansi A Prabhu,Java,6.9,,Nutanix,Yes,Communication
+292,Mansi A Prabhu,Java,6.9,,Accenture,Yes,Communication
+293,Mansi A Prabhu,Java,6.9,,Daimler Truck,Yes,Teamwork
+294,Mansi A Prabhu,Java,6.9,,Oracle,No,Problem-solving
+295,Mansi A Prabhu,Java,6.9,,Navigo Solutions,No,Interpersonal skills
+296,Mansi A Prabhu,Java,6.9,,Aloha Technology,No,Interpersonal skills
+297,Mansi A Prabhu,Java,6.9,,JSW Group,No,Interpersonal skills
+298,Mansi A Prabhu,Java,6.9,,Relanto Global,No,Time management
+299,Mansi A Prabhu,Java,6.9,,IBM Software Labs,No,Interpersonal skills
+300,Melsita Mendonca,Python,7.93,,Twilio,Yes,Problem-solving
+301,Melsita Mendonca,Python,7.93,,Nutanix,Yes,Creativity
+302,Melsita Mendonca,Python,7.93,,Accenture,Yes,Time management
+303,Melsita Mendonca,Python,7.93,,Daimler Truck,Yes,Problem-solving
+304,Melsita Mendonca,Python,7.93,,Oracle,No,Creativity
+305,Melsita Mendonca,Python,7.93,,Navigo Solutions,No,Problem-solving
+306,Melsita Mendonca,Python,7.93,,Aloha Technology,No,Creativity
+307,Melsita Mendonca,Python,7.93,,JSW Group,No,Problem-solving
+308,Melsita Mendonca,Python,7.93,,Relanto Global,No,Creativity
+309,Melsita Mendonca,Python,7.93,,IBM Software Labs,No,Teamwork
+310,Nagendra S Rao,Python,8.88,,Target,Yes,Interpersonal skills
+311,Nagendra S Rao,Python,8.88,,RedBus,Yes,Communication
+312,Nagendra S Rao,Python,8.88,,Incture,Yes,Communication
+313,Nagendra S Rao,Python,8.88,,Sony India,Yes,Teamwork
+314,Nagendra S Rao,Python,8.88,,Tata Consulting Engineers,Yes,Communication
+315,Nagendra S Rao,Python,8.88,,Oracle,No,Communication
+316,Nagendra S Rao,Python,8.88,,Navigo Solutions,No,Time management
+317,Nagendra S Rao,Python,8.88,,Aloha Technology,No,Teamwork
+318,Nagendra S Rao,Python,8.88,,JSW Group,No,Teamwork
+319,Nagendra S Rao,Python,8.88,,Relanto Global,No,Communication
+320,Nandan Upadhyaya,Power BI,9.8,,Twilio,Yes,Communication
+321,Nandan Upadhyaya,Power BI,9.8,,Nutanix,Yes,Time management
+322,Nandan Upadhyaya,Power BI,9.8,,Accenture,Yes,Interpersonal skills
+323,Nandan Upadhyaya,Power BI,9.8,,Daimler Truck,Yes,Interpersonal skills
+324,Nandan Upadhyaya,Power BI,9.8,,Tata Consulting Engineers,No,Creativity
+325,Nandan Upadhyaya,Power BI,9.8,,Oracle,No,Communication
+326,Nandan Upadhyaya,Power BI,9.8,,Navigo Solutions,No,Teamwork
+327,Nandan Upadhyaya,Power BI,9.8,,Aloha Technology,No,Problem-solving
+328,Nandan Upadhyaya,Power BI,9.8,,JSW Group,No,Teamwork
+329,Nandan Upadhyaya,Power BI,9.8,,Relanto Global,No,Time management
+330,Narasimha M Pai,Excel,7.98,,Juniper Networks,Yes,Time management
+331,Narasimha M Pai,Excel,7.98,,Deltax,Yes,Creativity
+332,Narasimha M Pai,Excel,7.98,,Pwc Cloud & Digital,Yes,Creativity
+333,Narasimha M Pai,Excel,7.98,,Tata Consulting Engineers,No,Teamwork
+334,Narasimha M Pai,Excel,7.98,,Oracle,No,Teamwork
+335,Narasimha M Pai,Excel,7.98,,Navigo Solutions,No,Problem-solving
+336,Narasimha M Pai,Excel,7.98,,Aloha Technology,No,Creativity
+337,Narasimha M Pai,Excel,7.98,,JSW Group,No,Creativity
+338,Narasimha M Pai,Excel,7.98,,Relanto Global,No,Creativity
+339,Narasimha M Pai,Excel,7.98,,Twilio,No,Time management
+340,Navaneeth Shetty,SQL,7,,Mercedes benz,Yes,Interpersonal skills
+341,Navaneeth Shetty,SQL,7,,JSW Group,Yes,Communication
+342,Navaneeth Shetty,SQL,7,,Relanto Global,No,Teamwork
+343,Navaneeth Shetty,SQL,7,,Twilio,No,Teamwork
+344,Navaneeth Shetty,SQL,7,,Tata Consulting Engineers,No,Communication
+345,Navaneeth Shetty,SQL,7,,Oracle,No,Time management
+346,Navaneeth Shetty,SQL,7,,Navigo Solutions,No,Problem-solving
+347,Navaneeth Shetty,SQL,7,,Aloha Technology,No,Communication
+348,Navaneeth Shetty,SQL,7,,Juniper Networks,No,Creativity
+349,Navaneeth Shetty,SQL,7,,Deltax,No,Problem-solving
+350,Nidhi Shetty,Java,7,,IBM Software Labs,Yes,Interpersonal skills
+351,Nidhi Shetty,Java,7,,Accolite Digital,Yes,Creativity
+352,Nidhi Shetty,Java,7,,Mirafra Technologies,Yes,Problem-solving
+353,Nidhi Shetty,Java,7,,Ace Designers Limited,Yes,Problem-solving
+354,Nidhi Shetty,Java,7,,Tata Consulting Engineers,No,Time management
+355,Nidhi Shetty,Java,7,,Oracle,No,Time management
+356,Nidhi Shetty,Java,7,,Navigo Solutions,No,Creativity
+357,Nidhi Shetty,Java,7,,Aloha Technology,No,Teamwork
+358,Nidhi Shetty,Java,7,,Juniper Networks,No,Interpersonal skills
+359,Nidhi Shetty,Java,7,,Deltax,No,Communication
+360,Nidhish Shettigar,Python,8.98,,Juniper Networks,Yes,Creativity
+361,Nidhish Shettigar,Python,8.98,,Deltax,Yes,Teamwork
+362,Nidhish Shettigar,Python,8.98,,Pwc Cloud & Digital,Yes,Teamwork
+363,Nidhish Shettigar,Python,8.98,,Mercedes benz,No,Time management
+364,Nidhish Shettigar,Python,8.98,,JSW Group,No,Communication
+365,Nidhish Shettigar,Python,8.98,,IBM Software Labs,No,Teamwork
+366,Nidhish Shettigar,Python,8.98,,Accolite Digital,No,Communication
+367,Nidhish Shettigar,Python,8.98,,Mirafra Technologies,No,Creativity
+368,Nidhish Shettigar,Python,8.98,,Ace Designers Limited,No,Communication
+369,Nidhish Shettigar,Python,8.98,,Daimler Truck,No,Creativity
+370,Parthiv Venugopal,SQL,7.08,,Twilio,Yes,Teamwork
+371,Parthiv Venugopal,SQL,7.08,,Nutanix,Yes,Problem-solving
+372,Parthiv Venugopal,SQL,7.08,,Accenture,Yes,Communication
+373,Parthiv Venugopal,SQL,7.08,,Daimler Truck,Yes,Communication
+374,Parthiv Venugopal,SQL,7.08,,Oracle,No,Teamwork
+375,Parthiv Venugopal,SQL,7.08,,Red Bus,No,Time management
+376,Parthiv Venugopal,SQL,7.08,,Sony India,No,Problem-solving
+377,Parthiv Venugopal,SQL,7.08,,Target,No,Interpersonal skills
+378,Parthiv Venugopal,SQL,7.08,,Relanto Global,No,Creativity
+379,Parthiv Venugopal,SQL,7.08,,Tata Consulting Engineers,No,Time management
+380,Pranav R Bhat,Web Dev,6.05,,Relanto Global,Yes,Teamwork
+381,Pranav R Bhat,Web Dev,6.05,,Daimler Truck,No,Problem-solving
+382,Pranav R Bhat,Web Dev,6.05,,Aloha Technolgy,No,Communication
+383,Pranav R Bhat,Web Dev,6.05,,IBM India,No,Communication
+384,Pranav R Bhat,Web Dev,6.05,,Incture,No,Communication
+385,Pranav R Bhat,Web Dev,6.05,,Navigo Solutions,No,Teamwork
+386,Pranav R Bhat,Web Dev,6.05,,Oracle,No,Teamwork
+387,Pranav R Bhat,Web Dev,6.05,,Red Bus,No,Time management
+388,Pranav R Bhat,Web Dev,6.05,,Sony India,No,Time management
+389,Pranav R Bhat,Web Dev,6.05,,Target,No,Teamwork
+390,Prithvi N Shetty,Web Dev,5.5,,Target,Yes,Interpersonal skills
+391,Prithvi N Shetty,Web Dev,5.5,,RedBus,Yes,Communication
+392,Prithvi N Shetty,Web Dev,5.5,,Incture,Yes,Interpersonal skills
+393,Prithvi N Shetty,Web Dev,5.5,,Sony India,Yes,Creativity
+394,Prithvi N Shetty,Web Dev,5.5,,Tata Consulting Engineers,Yes,Creativity
+395,Prithvi N Shetty,Web Dev,5.5,,Ace Designers Limited,No,Time management
+396,Prithvi N Shetty,Web Dev,5.5,,Juniper Networks,No,Communication
+397,Prithvi N Shetty,Web Dev,5.5,,Deltax,No,Problem-solving
+398,Prithvi N Shetty,Web Dev,5.5,,Pwc Cloud & Digital,No,Interpersonal skills
+399,Prithvi N Shetty,Web Dev,5.5,,Daimler Truck,No,Communication
+400,R Ajay Prabhu,Cybersecurity,7,,IBM India,Yes,Problem-solving
+401,R Ajay Prabhu,Cybersecurity,7,,Oracle,Yes,Problem-solving
+402,R Ajay Prabhu,Cybersecurity,7,,Navigo Solutions,Yes,Communication
+403,R Ajay Prabhu,Cybersecurity,7,,Aloha Technology,Yes,Teamwork
+404,R Ajay Prabhu,Cybersecurity,7,,Accenture,No,Creativity
+405,R Ajay Prabhu,Cybersecurity,7,,Incture,No,Communication
+406,R Ajay Prabhu,Cybersecurity,7,,Nutanix,No,Time management
+407,R Ajay Prabhu,Cybersecurity,7,,Red Bus,No,Interpersonal skills
+408,R Ajay Prabhu,Cybersecurity,7,,Sony India,No,Creativity
+409,R Ajay Prabhu,Cybersecurity,7,,Target,No,Problem-solving
+410,Raksha P,Cybersecurity,8.05,,Twilio,Yes,Creativity
+411,Raksha P,Cybersecurity,8.05,,Nutanix,Yes,Time management
+412,Raksha P,Cybersecurity,8.05,,Accenture,Yes,Teamwork
+413,Raksha P,Cybersecurity,8.05,,Daimler Truck,Yes,Time management
+414,Raksha P,Cybersecurity,8.05,,JSW Group,No,Time management
+415,Raksha P,Cybersecurity,8.05,,IBM Software Labs,No,Time management
+416,Raksha P,Cybersecurity,8.05,,Accolite Digital,No,Teamwork
+417,Raksha P,Cybersecurity,8.05,,Mirafra Technologies,No,Teamwork
+418,Raksha P,Cybersecurity,8.05,,Ace Designers Limited,No,Problem-solving
+419,Raksha P,Cybersecurity,8.05,,Juniper Networks,No,Problem-solving
+420,Rashmi N,Cybersecurity,9.78,,Target,Yes,Interpersonal skills
+421,Rashmi N,Cybersecurity,9.78,,RedBus,Yes,Interpersonal skills
+422,Rashmi N,Cybersecurity,9.78,,Incture,Yes,Teamwork
+423,Rashmi N,Cybersecurity,9.78,,Sony India,Yes,Teamwork
+424,Rashmi N,Cybersecurity,9.78,,Tata Consulting Engineers,Yes,Communication
+425,Rashmi N,Cybersecurity,9.78,,Accenture,No,Communication
+426,Rashmi N,Cybersecurity,9.78,,Aloha Technolgy,No,Communication
+427,Rashmi N,Cybersecurity,9.78,,IBM India,No,Interpersonal skills
+428,Rashmi N,Cybersecurity,9.78,,Navigo Solutions,No,Problem-solving
+429,Rashmi N,Cybersecurity,9.78,,Nutanix,No,Interpersonal skills
+430,Rhea Dmello,SQL,9.77,,Target,Yes,Interpersonal skills
+431,Rhea Dmello,SQL,9.77,,RedBus,Yes,Teamwork
+432,Rhea Dmello,SQL,9.77,,Incture,Yes,Creativity
+433,Rhea Dmello,SQL,9.77,,Sony India,Yes,Communication
+434,Rhea Dmello,SQL,9.77,,Tata Consulting Engineers,Yes,Communication
+435,Rhea Dmello,SQL,9.77,,Accenture,No,Interpersonal skills
+436,Rhea Dmello,SQL,9.77,,Aloha Technolgy,No,Communication
+437,Rhea Dmello,SQL,9.77,,IBM India,No,Teamwork
+438,Rhea Dmello,SQL,9.77,,Navigo Solutions,No,Problem-solving
+439,Rhea Dmello,SQL,9.77,,Nutanix,No,Time management
+440,Ruchitha Prabhu,SQL,8.1,,Relanto Global,Yes,Problem-solving
+441,Ruchitha Prabhu,SQL,8.1,,Mercedes benz,No,Teamwork
+442,Ruchitha Prabhu,SQL,8.1,,JSW Group,No,Communication
+443,Ruchitha Prabhu,SQL,8.1,,IBM Software Labs,No,Problem-solving
+444,Ruchitha Prabhu,SQL,8.1,,Accolite Digital,No,Time management
+445,Ruchitha Prabhu,SQL,8.1,,Mirafra Technologies,No,Creativity
+446,Ruchitha Prabhu,SQL,8.1,,Ace Designers Limited,No,Communication
+447,Ruchitha Prabhu,SQL,8.1,,Juniper Networks,No,Problem-solving
+448,Ruchitha Prabhu,SQL,8.1,,Deltax,No,Interpersonal skills
+449,Ruchitha Prabhu,SQL,8.1,,Pwc Cloud & Digital,No,Teamwork
+450,Sanidhya K Bhandary,Cybersecurity,9.05,,Mercedes benz,Yes,Interpersonal skills
+451,Sanidhya K Bhandary,Cybersecurity,9.05,,JSW Group,Yes,Time management
+452,Sanidhya K Bhandary,Cybersecurity,9.05,,Deltax,No,Interpersonal skills
+453,Sanidhya K Bhandary,Cybersecurity,9.05,,Pwc Cloud & Digital,No,Interpersonal skills
+454,Sanidhya K Bhandary,Cybersecurity,9.05,,Daimler Truck,No,Teamwork
+455,Sanidhya K Bhandary,Cybersecurity,9.05,,Accenture,No,Time management
+456,Sanidhya K Bhandary,Cybersecurity,9.05,,Aloha Technolgy,No,Teamwork
+457,Sanidhya K Bhandary,Cybersecurity,9.05,,IBM India,No,Creativity
+458,Sanidhya K Bhandary,Cybersecurity,9.05,,Navigo Solutions,No,Interpersonal skills
+459,Sanidhya K Bhandary,Cybersecurity,9.05,,Nutanix,No,Teamwork
+460,Sanjana Bokde,Cybersecurity,7.57,,Mercedes benz,Yes,Time management
+461,Sanjana Bokde,Cybersecurity,7.57,,JSW Group,Yes,Teamwork
+462,Sanjana Bokde,Cybersecurity,7.57,,Deltax,No,Time management
+463,Sanjana Bokde,Cybersecurity,7.57,,Pwc Cloud & Digital,No,Creativity
+464,Sanjana Bokde,Cybersecurity,7.57,,Daimler Truck,No,Interpersonal skills
+465,Sanjana Bokde,Cybersecurity,7.57,,Accenture,No,Creativity
+466,Sanjana Bokde,Cybersecurity,7.57,,Aloha Technolgy,No,Teamwork
+467,Sanjana Bokde,Cybersecurity,7.57,,IBM India,No,Communication
+468,Sanjana Bokde,Cybersecurity,7.57,,Navigo Solutions,No,Interpersonal skills
+469,Sanjana Bokde,Cybersecurity,7.57,,Nutanix,No,Communication
+470,Sarvajith Adyanthaya,Web Dev,8.96,,IBM India,Yes,Teamwork
+471,Sarvajith Adyanthaya,Web Dev,8.96,,Oracle,Yes,Creativity
+472,Sarvajith Adyanthaya,Web Dev,8.96,,Navigo Solutions,Yes,Time management
+473,Sarvajith Adyanthaya,Web Dev,8.96,,Aloha Technology,Yes,Time management
+474,Sarvajith Adyanthaya,Web Dev,8.96,,Ace Designers Limited,No,Teamwork
+475,Sarvajith Adyanthaya,Web Dev,8.96,,Juniper Networks,No,Interpersonal skills
+476,Sarvajith Adyanthaya,Web Dev,8.96,,Deltax,No,Creativity
+477,Sarvajith Adyanthaya,Web Dev,8.96,,Pwc Cloud & Digital,No,Interpersonal skills
+478,Sarvajith Adyanthaya,Web Dev,8.96,,Daimler Truck,No,Communication
+479,Sarvajith Adyanthaya,Web Dev,8.96,,Accenture,No,Problem-solving
+480,Sharanya,Python,7.3,,IBM Software Labs,Yes,Teamwork
+481,Sharanya,Python,7.3,,Accolite Digital,Yes,Communication
+482,Sharanya,Python,7.3,,Mirafra Technologies,Yes,Time management
+483,Sharanya,Python,7.3,,Ace Designers Limited,Yes,Problem-solving
+484,Sharanya,Python,7.3,,Aloha Technolgy,No,Interpersonal skills
+485,Sharanya,Python,7.3,,IBM India,No,Creativity
+486,Sharanya,Python,7.3,,Incture,No,Problem-solving
+487,Sharanya,Python,7.3,,Navigo Solutions,No,Communication
+488,Sharanya,Python,7.3,,Nutanix,No,Time management
+489,Sharanya,Python,7.3,,Oracle,No,Interpersonal skills
+490,Shetty Khyathi Rajesh,Power BI,8.82,,Target,Yes,Communication
+491,Shetty Khyathi Rajesh,Power BI,8.82,,RedBus,Yes,Interpersonal skills
+492,Shetty Khyathi Rajesh,Power BI,8.82,,Incture,Yes,Creativity
+493,Shetty Khyathi Rajesh,Power BI,8.82,,Sony India,Yes,Problem-solving
+494,Shetty Khyathi Rajesh,Power BI,8.82,,Tata Consulting Engineers,Yes,Problem-solving
+495,Shetty Khyathi Rajesh,Power BI,8.82,,IBM India,No,Teamwork
+496,Shetty Khyathi Rajesh,Power BI,8.82,,Accenture,No,Problem-solving
+497,Shetty Khyathi Rajesh,Power BI,8.82,,Navigo Solutions,No,Communication
+498,Shetty Khyathi Rajesh,Power BI,8.82,,Nutanix,No,Teamwork
+499,Shetty Khyathi Rajesh,Power BI,8.82,,Oracle,No,Problem-solving
+500,Shetty Kirthan Dinesh,Excel,8.37,,Juniper Networks,Yes,Communication
+501,Shetty Kirthan Dinesh,Excel,8.37,,Deltax,Yes,Problem-solving
+502,Shetty Kirthan Dinesh,Excel,8.37,,Pwc Cloud & Digital,Yes,Communication
+503,Shetty Kirthan Dinesh,Excel,8.37,,Oracle,No,Problem-solving
+504,Shetty Kirthan Dinesh,Excel,8.37,,Red Bus,No,Problem-solving
+505,Shetty Kirthan Dinesh,Excel,8.37,,Sony India,No,Time management
+506,Shetty Kirthan Dinesh,Excel,8.37,,Target,No,Teamwork
+507,Shetty Kirthan Dinesh,Excel,8.37,,Twilio,No,Teamwork
+508,Shetty Kirthan Dinesh,Excel,8.37,,Relanto Global,No,Interpersonal skills
+509,Shetty Kirthan Dinesh,Excel,8.37,,Tata Consulting Engineers,No,Time management
+510,Shika Rai,Java,7.57,,IBM India,Yes,Time management
+511,Shika Rai,Java,7.57,,Oracle,Yes,Interpersonal skills
+512,Shika Rai,Java,7.57,,Navigo Solutions,Yes,Communication
+513,Shika Rai,Java,7.57,,Aloha Technology,Yes,Time management
+514,Shika Rai,Java,7.57,,Mirafra Technologies,No,Interpersonal skills
+515,Shika Rai,Java,7.57,,Ace Designers Limited,No,Problem-solving
+516,Shika Rai,Java,7.57,,Juniper Networks,No,Communication
+517,Shika Rai,Java,7.57,,Deltax,No,Problem-solving
+518,Shika Rai,Java,7.57,,Pwc Cloud & Digital,No,Interpersonal skills
+519,Shika Rai,Java,7.57,,Daimler Truck,No,Teamwork
+520,Shishir S Hebbar,SQL,6.6,,Twilio,Yes,Creativity
+521,Shishir S Hebbar,SQL,6.6,,Nutanix,Yes,Teamwork
+522,Shishir S Hebbar,SQL,6.6,,Accenture,Yes,Time management
+523,Shishir S Hebbar,SQL,6.6,,Daimler Truck,Yes,Creativity
+524,Shishir S Hebbar,SQL,6.6,,Accolite Digital,No,Teamwork
+525,Shishir S Hebbar,SQL,6.6,,Mirafra Technologies,No,Communication
+526,Shishir S Hebbar,SQL,6.6,,Ace Designers Limited,No,Interpersonal skills
+527,Shishir S Hebbar,SQL,6.6,,Juniper Networks,No,Interpersonal skills
+528,Shishir S Hebbar,SQL,6.6,,Deltax,No,Problem-solving
+529,Shishir S Hebbar,SQL,6.6,,Pwc Cloud & Digital,No,Interpersonal skills
+530,Shreevathsa R Tantry,Power BI,9.2,,IBM India,Yes,Interpersonal skills
+531,Shreevathsa R Tantry,Power BI,9.2,,Oracle,Yes,Creativity
+532,Shreevathsa R Tantry,Power BI,9.2,,Navigo Solutions,Yes,Communication
+533,Shreevathsa R Tantry,Power BI,9.2,,Aloha Technology,Yes,Problem-solving
+534,Shreevathsa R Tantry,Power BI,9.2,,Accolite Digital,No,Communication
+535,Shreevathsa R Tantry,Power BI,9.2,,Mirafra Technologies,No,Teamwork
+536,Shreevathsa R Tantry,Power BI,9.2,,Ace Designers Limited,No,Time management
+537,Shreevathsa R Tantry,Power BI,9.2,,Juniper Networks,No,Interpersonal skills
+538,Shreevathsa R Tantry,Power BI,9.2,,Deltax,No,Creativity
+539,Shreevathsa R Tantry,Power BI,9.2,,Pwc Cloud & Digital,No,Creativity
+540,Sinchan A,SQL,9.2,,IBM India,Yes,Interpersonal skills
+541,Sinchan A,SQL,9.2,,Oracle,Yes,Problem-solving
+542,Sinchan A,SQL,9.2,,Navigo Solutions,Yes,Creativity
+543,Sinchan A,SQL,9.2,,Aloha Technology,Yes,Teamwork
+544,Sinchan A,SQL,9.2,,Accolite Digital,No,Interpersonal skills
+545,Sinchan A,SQL,9.2,,Mirafra Technologies,No,Problem-solving
+546,Sinchan A,SQL,9.2,,Ace Designers Limited,No,Time management
+547,Sinchan A,SQL,9.2,,Juniper Networks,No,Time management
+548,Sinchan A,SQL,9.2,,Deltax,No,Teamwork
+549,Sinchan A,SQL,9.2,,Pwc Cloud & Digital,No,Teamwork
+550,Sohan Shanbhogue,Cybersecurity,6.7,,Target,Yes,Creativity
+551,Sohan Shanbhogue,Cybersecurity,6.7,,RedBus,Yes,Problem-solving
+552,Sohan Shanbhogue,Cybersecurity,6.7,,Incture,Yes,Communication
+553,Sohan Shanbhogue,Cybersecurity,6.7,,Sony India,Yes,Communication
+554,Sohan Shanbhogue,Cybersecurity,6.7,,Tata Consulting Engineers,Yes,Creativity
+555,Sohan Shanbhogue,Cybersecurity,6.7,,Juniper Networks,No,Teamwork
+556,Sohan Shanbhogue,Cybersecurity,6.7,,Deltax,No,Teamwork
+557,Sohan Shanbhogue,Cybersecurity,6.7,,Pwc Cloud & Digital,No,Problem-solving
+558,Sohan Shanbhogue,Cybersecurity,6.7,,Daimler Truck,No,Communication
+559,Sohan Shanbhogue,Cybersecurity,6.7,,Accenture,No,Problem-solving
+560,Sujan U Kulai,Excel,5.85,,IBM Software Labs,Yes,Interpersonal skills
+561,Sujan U Kulai,Excel,5.85,,Accolite Digital,Yes,Interpersonal skills
+562,Sujan U Kulai,Excel,5.85,,Mirafra Technologies,Yes,Teamwork
+563,Sujan U Kulai,Excel,5.85,,Ace Designers Limited,Yes,Communication
+564,Sujan U Kulai,Excel,5.85,,Daimler Truck,No,Time management
+565,Sujan U Kulai,Excel,5.85,,Accenture,No,Interpersonal skills
+566,Sujan U Kulai,Excel,5.85,,Aloha Technolgy,No,Communication
+567,Sujan U Kulai,Excel,5.85,,IBM India,No,Time management
+568,Sujan U Kulai,Excel,5.85,,Incture,No,Creativity
+569,Sujan U Kulai,Excel,5.85,,Navigo Solutions,No,Communication
+570,Swaroop S,Power BI,8.16,,Relanto Global,Yes,Creativity
+571,Swaroop S,Power BI,8.16,,Aloha Technolgy,No,Interpersonal skills
+572,Swaroop S,Power BI,8.16,,IBM India,No,Problem-solving
+573,Swaroop S,Power BI,8.16,,Incture,No,Interpersonal skills
+574,Swaroop S,Power BI,8.16,,Navigo Solutions,No,Communication
+575,Swaroop S,Power BI,8.16,,Nutanix,No,Interpersonal skills
+576,Swaroop S,Power BI,8.16,,Oracle,No,Problem-solving
+577,Swaroop S,Power BI,8.16,,Red Bus,No,Teamwork
+578,Swaroop S,Power BI,8.16,,Sony India,No,Time management
+579,Swaroop S,Power BI,8.16,,Target,No,Communication
+580,Swasthik S Devadiga,Excel,7.03,,IBM Software Labs,Yes,Interpersonal skills
+581,Swasthik S Devadiga,Excel,7.03,,Accolite Digital,Yes,Time management
+582,Swasthik S Devadiga,Excel,7.03,,Mirafra Technologies,Yes,Time management
+583,Swasthik S Devadiga,Excel,7.03,,Ace Designers Limited,Yes,Time management
+584,Swasthik S Devadiga,Excel,7.03,,Daimler Truck,No,Creativity
+585,Swasthik S Devadiga,Excel,7.03,,Accenture,No,Problem-solving
+586,Swasthik S Devadiga,Excel,7.03,,Aloha Technolgy,No,Time management
+587,Swasthik S Devadiga,Excel,7.03,,IBM India,No,Interpersonal skills
+588,Swasthik S Devadiga,Excel,7.03,,Incture,No,Communication
+589,Swasthik S Devadiga,Excel,7.03,,Navigo Solutions,No,Interpersonal skills
+590,Sweekritha K C,Power BI,8.77,,Twilio,Yes,Communication
+591,Sweekritha K C,Power BI,8.77,,Nutanix,Yes,Problem-solving
+592,Sweekritha K C,Power BI,8.77,,Accenture,Yes,Interpersonal skills
+593,Sweekritha K C,Power BI,8.77,,Daimler Truck,Yes,Teamwork
+594,Sweekritha K C,Power BI,8.77,,Mercedes benz,No,Time management
+595,Sweekritha K C,Power BI,8.77,,JSW Group,No,Problem-solving
+596,Sweekritha K C,Power BI,8.77,,IBM Software Labs,No,Teamwork
+597,Sweekritha K C,Power BI,8.77,,Accolite Digital,No,Time management
+598,Sweekritha K C,Power BI,8.77,,Mirafra Technologies,No,Problem-solving
+599,Sweekritha K C,Power BI,8.77,,Ace Designers Limited,No,Interpersonal skills
+600,Tejas P Naik,Excel,6.62,,Twilio,Yes,Interpersonal skills
+601,Tejas P Naik,Excel,6.62,,Nutanix,Yes,Interpersonal skills
+602,Tejas P Naik,Excel,6.62,,Accenture,Yes,Interpersonal skills
+603,Tejas P Naik,Excel,6.62,,Daimler Truck,Yes,Time management
+604,Tejas P Naik,Excel,6.62,,Mercedes benz,No,Communication
+605,Tejas P Naik,Excel,6.62,,JSW Group,No,Communication
+606,Tejas P Naik,Excel,6.62,,IBM Software Labs,No,Time management
+607,Tejas P Naik,Excel,6.62,,Accolite Digital,No,Time management
+608,Tejas P Naik,Excel,6.62,,Mirafra Technologies,No,Communication
+609,Tejas P Naik,Excel,6.62,,Ace Designers Limited,No,Time management
+610,Trisha S Shetty,Excel,8.95,,Juniper Networks,Yes,Teamwork
+611,Trisha S Shetty,Excel,8.95,,Deltax,Yes,Creativity
+612,Trisha S Shetty,Excel,8.95,,Pwc Cloud & Digital,Yes,Creativity
+613,Trisha S Shetty,Excel,8.95,,Aloha Technolgy,No,Time management
+614,Trisha S Shetty,Excel,8.95,,IBM India,No,Creativity
+615,Trisha S Shetty,Excel,8.95,,Incture,No,Teamwork
+616,Trisha S Shetty,Excel,8.95,,Navigo Solutions,No,Interpersonal skills
+617,Trisha S Shetty,Excel,8.95,,Nutanix,No,Creativity
+618,Trisha S Shetty,Excel,8.95,,Oracle,No,Teamwork
+619,Trisha S Shetty,Excel,8.95,,Red Bus,No,Time management
+620,V Vinay Kamath,SQL,7.5,,Target,Yes,Time management
+621,V Vinay Kamath,SQL,7.5,,RedBus,Yes,Time management
+622,V Vinay Kamath,SQL,7.5,,Incture,Yes,Creativity
+623,V Vinay Kamath,SQL,7.5,,Sony India,Yes,Creativity
+624,V Vinay Kamath,SQL,7.5,,Tata Consulting Engineers,Yes,Communication
+625,V Vinay Kamath,SQL,7.5,,IBM Software Labs,No,Creativity
+626,V Vinay Kamath,SQL,7.5,,Accolite Digital,No,Teamwork
+627,V Vinay Kamath,SQL,7.5,,Mirafra Technologies,No,Time management
+628,V Vinay Kamath,SQL,7.5,,Ace Designers Limited,No,Teamwork
+629,V Vinay Kamath,SQL,7.5,,Juniper Networks,No,Communication
+630,Vaishnavi J Bangera,Web Dev,8.02,,Mercedes benz,Yes,Problem-solving
+631,Vaishnavi J Bangera,Web Dev,8.02,,JSW Group,Yes,Teamwork
+632,Vaishnavi J Bangera,Web Dev,8.02,,Aloha Technolgy,No,Time management
+633,Vaishnavi J Bangera,Web Dev,8.02,,IBM India,No,Communication
+634,Vaishnavi J Bangera,Web Dev,8.02,,Incture,No,Interpersonal skills
+635,Vaishnavi J Bangera,Web Dev,8.02,,Navigo Solutions,No,Creativity
+636,Vaishnavi J Bangera,Web Dev,8.02,,Nutanix,No,Teamwork
+637,Vaishnavi J Bangera,Web Dev,8.02,,Oracle,No,Teamwork
+638,Vaishnavi J Bangera,Web Dev,8.02,,Red Bus,No,Interpersonal skills
+639,Vaishnavi J Bangera,Web Dev,8.02,,Sony India,No,Teamwork
+640,Vaishnavi N,Excel,9.78,,Relanto Global,Yes,Creativity
+641,Vaishnavi N,Excel,9.78,,Mercedes benz,No,Problem-solving
+642,Vaishnavi N,Excel,9.78,,JSW Group,No,Time management
+643,Vaishnavi N,Excel,9.78,,IBM Software Labs,No,Problem-solving
+644,Vaishnavi N,Excel,9.78,,Accolite Digital,No,Interpersonal skills
+645,Vaishnavi N,Excel,9.78,,Mirafra Technologies,No,Time management
+646,Vaishnavi N,Excel,9.78,,Ace Designers Limited,No,Creativity
+647,Vaishnavi N,Excel,9.78,,Juniper Networks,No,Problem-solving
+648,Vaishnavi N,Excel,9.78,,Deltax,No,Time management
+649,Vaishnavi N,Excel,9.78,,Pwc Cloud & Digital,No,Problem-solving
+650,Varma Yash Rampragat,Cybersecurity,7.95,,Twilio,Yes,Teamwork
+651,Varma Yash Rampragat,Cybersecurity,7.95,,Nutanix,Yes,Teamwork
+652,Varma Yash Rampragat,Cybersecurity,7.95,,Accenture,Yes,Communication
+653,Varma Yash Rampragat,Cybersecurity,7.95,,Daimler Truck,Yes,Interpersonal skills
+654,Varma Yash Rampragat,Cybersecurity,7.95,,JSW Group,No,Time management
+655,Varma Yash Rampragat,Cybersecurity,7.95,,IBM Software Labs,No,Problem-solving
+656,Varma Yash Rampragat,Cybersecurity,7.95,,Accolite Digital,No,Creativity
+657,Varma Yash Rampragat,Cybersecurity,7.95,,Mirafra Technologies,No,Problem-solving
+658,Varma Yash Rampragat,Cybersecurity,7.95,,Ace Designers Limited,No,Time management
+659,Varma Yash Rampragat,Cybersecurity,7.95,,Juniper Networks,No,Problem-solving
+660,Vignesh,Python,7,,Mercedes benz,Yes,Communication
+661,Vignesh,Python,7,,JSW Group,Yes,Communication
+662,Vignesh,Python,7,,Aloha Technolgy,No,Interpersonal skills
+663,Vignesh,Python,7,,IBM India,No,Problem-solving
+664,Vignesh,Python,7,,Incture,No,Teamwork
+665,Vignesh,Python,7,,Navigo Solutions,No,Communication
+666,Vignesh,Python,7,,Nutanix,No,Time management
+667,Vignesh,Python,7,,Oracle,No,Teamwork
+668,Vignesh,Python,7,,Red Bus,No,Creativity
+669,Vignesh,Python,7,,Sony India,No,Problem-solving
+670,Vishanth S Chandan,Power BI,7.85,,IBM India,Yes,Problem-solving
+671,Vishanth S Chandan,Power BI,7.85,,Oracle,Yes,Problem-solving
+672,Vishanth S Chandan,Power BI,7.85,,Navigo Solutions,Yes,Creativity
+673,Vishanth S Chandan,Power BI,7.85,,Aloha Technology,Yes,Communication
+674,Vishanth S Chandan,Power BI,7.85,,Mercedes benz,No,Teamwork
+675,Vishanth S Chandan,Power BI,7.85,,JSW Group,No,Communication
+676,Vishanth S Chandan,Power BI,7.85,,IBM Software Labs,No,Communication
+677,Vishanth S Chandan,Power BI,7.85,,Accolite Digital,No,Creativity
+678,Vishanth S Chandan,Power BI,7.85,,Mirafra Technologies,No,Teamwork
+679,Vishanth S Chandan,Power BI,7.85,,Ace Designers Limited,No,Interpersonal skills
+680,Y. Nidhi Shenoy,Power BI,9.98,,IBM Software Labs,Yes,Teamwork
+681,Y. Nidhi Shenoy,Power BI,9.98,,Accolite Digital,Yes,Teamwork
+682,Y. Nidhi Shenoy,Power BI,9.98,,Mirafra Technologies,Yes,Interpersonal skills
+683,Y. Nidhi Shenoy,Power BI,9.98,,Ace Designers Limited,Yes,Creativity
+684,Y. Nidhi Shenoy,Power BI,9.98,,Pwc Cloud & Digital,No,Creativity
+685,Y. Nidhi Shenoy,Power BI,9.98,,Daimler Truck,No,Time management
+686,Y. Nidhi Shenoy,Power BI,9.98,,Accenture,No,Creativity
+687,Y. Nidhi Shenoy,Power BI,9.98,,Aloha Technolgy,No,Teamwork
+688,Y. Nidhi Shenoy,Power BI,9.98,,IBM India,No,Interpersonal skills
+689,Y. Nidhi Shenoy,Power BI,9.98,,Incture,No,Creativity
+690,Jyothii R. Moolya,Cybersecurity,6.35,,IBM Software Labs,Yes,Time management
+691,Jyothii R. Moolya,Cybersecurity,6.35,,Accolite Digital,Yes,Creativity
+692,Jyothii R. Moolya,Cybersecurity,6.35,,Mirafra Technologies,Yes,Interpersonal skills
+693,Jyothii R. Moolya,Cybersecurity,6.35,,Ace Designers Limited,Yes,Creativity
+694,Jyothii R. Moolya,Cybersecurity,6.35,,Pwc Cloud & Digital,No,Interpersonal skills
+695,Jyothii R. Moolya,Cybersecurity,6.35,,Daimler Truck,No,Time management
+696,Jyothii R. Moolya,Cybersecurity,6.35,,Accenture,No,Time management
+697,Jyothii R. Moolya,Cybersecurity,6.35,,Aloha Technolgy,No,Teamwork
+698,Jyothii R. Moolya,Cybersecurity,6.35,,IBM India,No,Interpersonal skills
+699,Jyothii R. Moolya,Cybersecurity,6.35,,Incture,No,Interpersonal skills
+700,Prakash L Waddar,Power BI,4.99,,IBM India,Yes,Teamwork
+701,Prakash L Waddar,Power BI,4.99,,Oracle,Yes,Communication
+702,Prakash L Waddar,Power BI,4.99,,Navigo Solutions,Yes,Creativity
+703,Prakash L Waddar,Power BI,4.99,,Aloha Technology,Yes,Interpersonal skills
+704,Prakash L Waddar,Power BI,4.99,,Accolite Digital,No,Interpersonal skills
+705,Prakash L Waddar,Power BI,4.99,,Mirafra Technologies,No,Time management
+706,Prakash L Waddar,Power BI,4.99,,Ace Designers Limited,No,Creativity
+707,Prakash L Waddar,Power BI,4.99,,Juniper Networks,No,Creativity
+708,Prakash L Waddar,Power BI,4.99,,Deltax,No,Problem-solving
+709,Prakash L Waddar,Power BI,4.99,,Pwc Cloud & Digital,No,Time management
+710,Prajwal G S,Power BI,1,,Twilio,Yes,Time management
+711,Prajwal G S,Power BI,1,,Nutanix,Yes,Interpersonal skills
+712,Prajwal G S,Power BI,1,,Accenture,Yes,Interpersonal skills
+713,Prajwal G S,Power BI,1,,Daimler Truck,Yes,Teamwork
+714,Prajwal G S,Power BI,1,,Mercedes benz,No,Time management
+715,Prajwal G S,Power BI,1,,JSW Group,No,Interpersonal skills
+716,Prajwal G S,Power BI,1,,IBM Software Labs,No,Interpersonal skills
+717,Prajwal G S,Power BI,1,,Accolite Digital,No,Problem-solving
+718,Prajwal G S,Power BI,1,,Mirafra Technologies,No,Teamwork
+719,Prajwal G S,Power BI,1,,Ace Designers Limited,No,Interpersonal skills

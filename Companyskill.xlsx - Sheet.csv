@@ -1,0 +1,230 @@
+Sl no,Company_name,Skills_required
+1,Textron India,
+2,Yokogawa,Web Dev
+3,Twilio,Python
+4,Bosch global,
+5,Allegion India,"Python,Java"
+6,Avysh,
+7,Trilogy innovations,Java
+8,Data Insights,
+9,Louisa,
+10,Nutanix,Python
+11,NG Next Tech,Web Dev
+12,RedBus,Java
+13,IBM India,SQL
+14,Mercedes benz,Power BI
+15,Capillary Technologies,SQL
+16,Amagi,Excel
+17,Clover Bay Technologies,Java
+18,SamSung Semiconductor,
+19,Juniper Networks,Cybersecurity
+20,Kyndryl,Python
+21,Amadeus Labs,Python
+22,IBM Software Labs,Web Dev
+23,ACI Worldwide,SQL
+24,Cadence,Python
+25,Mamiya IT Solutions Japan,
+26,Oracle India Pvt Ltd,Java
+27,Tismo Technology,
+28,ACT-Atria Convergence Technologies Ltd,
+29,Mindtree,
+30,Accenture,Python
+31,Lam Research,Python
+32,Incture,Java
+33,Accord Software,
+34,Continental,Python
+35,Daimler Truck,Python
+36,Informatica,
+37,Krishitantra,
+38,Access Research Labs,
+39,Tietoevry India,
+40,Japan Research Institute,
+41,Tekion India,
+42,DXC,
+43,Cognizant,
+44,TCS,
+45,Surya Software,
+46,Propel,
+47,Andpad Inc,
+48,Miraic Inc,
+49,Robosoft Technologies,
+50,Semnox Solutions,
+51,99Games,
+52,Musigma,
+53,L&T Technologies,
+54,SocieteGenerale,
+55,Elsevier Technology,
+56,Hashedin by Deloitte,
+57,Sasken,
+58,Cyient,
+59,HPE,
+60,Embitel Technology,
+61,Pace Wisdom Solutions,
+62,Ingersoll-Rand Technologies,
+63,Capgemini,
+64,Sonata Software,
+65,Autoliv India Pvt Ltd,
+66,Sterlite Technologies Limtied,
+67,Cohesity,
+68,IBM CodeKnack,
+69,GA Technologies,
+70,PLAN B Inc,
+71,Staqu Technologies,
+72,Santec Corporation,
+73,Tel-Mic Col.Ltd,
+74,Novigo Solutions,SQL
+75,DNP Information Systems,Cybersecurity
+76,Infosys,Python
+77,Belc Co Ltd,
+78,Spurtree Technologies,Web Dev
+79,Bosch Limited,Power BI
+80,Forent Inc,Excel
+81,MResult,Python
+82,Accolite Digital,Web Dev
+83,Lekha Wireless,
+84,Ducom Instruments,Web Dev
+85,Synopsys,Python
+86,Diversified India,
+87,Vikram Solar India,
+88,Wiley Edge,SQL
+89,JSW Group,Power BI
+90,Actalent,Python
+91,Egrant,
+92,Thales,Java
+93,Numocity Technologies,
+94,Faurecia,Web Dev
+95,Aloha Technology,SQL
+96,Triphase Technologies,
+97,Vayavya Labs,
+98,Prism Johnson Limited,
+99,Signalchip innovations,Web Dev
+100,Borosil Technologies,
+101,Deltax,Cybersecurity
+102,Vxceed Software solutions,Power BI
+103,Somerset Therapeutics,
+104,Sony India,Java
+105,Relanto Global,Excel
+106,PwC Cloud & Digital,Cybersecurity
+107,Juego Studio,Python
+108,Mirafra Technologies,Web Dev
+109,Velankani Software,Python
+110,SSI People,
+111,PLM Indishtech Pvt Ltd,Web Dev
+112,MJA PharmaTech,
+113,Temairazu Inc,
+114,Micromatic Machine,
+115,Anglo Eastern,
+116,Enterprise Minds,
+117,Prism RMC,
+118,Quest Global,Python
+119,Toyota Kirloskar,
+120,3D Product Development,Web Dev
+121,Nidec Read (CoE 17+Japan 1),
+122,Signoff Semiconductors,
+123,Ace Designers Limited,Web Dev
+124,Technopro/TechnoBrain,
+125,Kaijo Corporation,
+126,Tata Consulting Engineers,Java
+127,Petrocon Engineers,
+128,Target,Java
+129,CDD Society,
+130,Collins Aerospace,
+131,UltraTech Cement Limited,
+132,PiCa Corp,
+133,WuerthElektranik,
+134,Kinlong Hardware Pvt Ltd,
+135,Accord Software,
+136,Kobayashi Create,
+137,Tata Technologies,Web Dev
+138,Brevera Technologies,
+139,Flowserve India Controls Pvt Limited,
+140,Tayana Mobility,
+141,Flexera,
+142,YG Cutting Tools,
+143,Tech Mahindra,
+144,Aparna Constructions,
+145,Externsclub,
+146,Liugong India Pvt. Ltd,
+147,Merkle Sokrati,
+148,7Edge,
+149,Atria Power,
+150,IndoMIM,
+151,HiveMinds,
+152,Whatfix,
+153,Euronext Solutions,
+154,SUN MOBILITY,
+155,LAURUS INFOSYSTEMS (INDIA) PVT. LTD,
+156,WAFER SPACE,
+157,RENAULT NISSAN TECHNOLOGY,
+158,GLOBAL DELIGHT,
+159,BRAVESOFT (ZENKEN),
+160,RAPIDO,
+161,"PLAN-B, Japan",
+162,TEK systems global services,
+163,VIKRAM SOLAR LIMITED,
+164,JAPANESE CONSTRUCTION CONSULTANT,
+166,iWave Systems Technologies,
+167,CADMAXX SOLUTIONS PVT LTD,
+168,STRATA GEOSYSTEMS PVT LTD,
+169,PRDC,
+170,HCL TECHNOLOGIES,
+171,ESOL,
+172,Taghash,
+173,KALVIUM,
+174,Brigosha Technologies pvt Ltd,
+175,SNAA PVT LTD,
+176,CREATIVE SYNERGIES,
+177,IIIUMINE,
+178,HUMANETICS,
+179,Eight-Japan Engineering Consultants Inc,
+180,Ap-ComMUNICATIONS COMPANY,
+181,Siemens Technology,
+182,Parallel Wireless,
+183,Morimatsu Industry Co.Ltd,
+184,Peol Solutions,
+185,Kimura Seal Corporation--Zenken,
+186,KOSHIN LTD - ZENKEN,
+187,LAKEEL INC - ZENKEN,
+188,FUJI SEIKO,
+189,AFICIONADO TECHNOLOGIES,
+190,HONDA ELECTRONICS CO LTD,
+191,Wuerth Elektranik,
+192,CUVETTE TECH,
+193,ADITYA BIRLA CAPITAL LIMITED,
+194,ELEATION,
+195,LIUGONG INDIA PVT LTD,
+196,Infineon Technologies,
+197,Vardhan Consulting Engineers,
+198,Nectar,
+199,XFACTR SOFTWARE,
+200,GE HEALTHCARE,
+201,BOSCH AUTOMOTIVE,
+202,PENTAGON SPACE PVT LTD,
+203,EMERTXE,
+204,Auma India,
+205,BLUEFLAME LABS,
+206,MANAV ENERGY,
+207,ACE MICROMATIC MANUFACTURING,
+208,KARMIC,
+209,ENVONE TECHNOLOGIES,
+210,MRPL,
+211,FACE PREP,
+212,Mediakind,
+213,Byjus Think & learn pvt ltd,
+214,SOLAR SQUARE ENERGY,
+215,NIVEUS SOLUTIONS,
+216,IGNITARIUM TECHNOLOGY SOLUTIONS,
+217,SEG AUTOMOTIVE INDIA,
+218,MONETIZE360,
+219,MANIPAL TECHNOLOGIES LIMITED,
+220,DOPAG INDIA,
+221,INFOMATICS CORP,
+222,BHARTI AIRTEL LIMITED,
+223,NHPC LIMITED,
+224,LEGION ENERGY,
+225,Hycom Engineering India Private Limited,
+226,FMCG Societies,
+227,Corizo,
+228,Pick Your Trail,
+229,Hinduja Housing Finance,
+230,Evertz India,
